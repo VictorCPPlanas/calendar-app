@@ -1,0 +1,27 @@
+
+.week > ul
+{
+    margin:  0;
+    padding: 0;
+    list-style: none;
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    text-align: center;
+    background: #e7e4e4d2;
+}
+
+.week > ul > li
+{
+    display: table-cell;
+}
+
+.week > ul > li:hover
+{
+    background: #c4c3c3d2;
+    cursor: default;
+}
+
+
+
+
