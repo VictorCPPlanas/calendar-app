@@ -1,3 +1,3 @@
-# calendar-app123
+# Simple One Page Calendar App
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/calendar-app123)
+One page calendar app
